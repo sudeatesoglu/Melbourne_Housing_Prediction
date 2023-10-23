@@ -1,5 +1,5 @@
 # Melbourne Housing Market
-![image](https://github.com/sudeatesoglu/Melbourne_Housing_Prediction/assets/106230756/00528f0b-e7d3-4623-a87c-c6828d463346)
+![Image by <a href="https://pixabay.com/users/barni1-773830/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=652622">Bernd Hildebrandt</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=652622">Pixabay</a>](https://github.com/sudeatesoglu/Melbourne_Housing_Prediction/assets/106230756/00528f0b-e7d3-4623-a87c-c6828d463346)
 
 This repository has been created for the final project of Akbank Machine Learning Bootcamp organized within the scope of the Global AI Hub.
 
